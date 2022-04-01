@@ -8,3 +8,6 @@ Tasks:
 `script1.py`: Calculate the first 30 terms of the Fibonacci sequence  
 `script2.py`: Calculate the first 30 triangular numbers  
 `script3.py`: Calculate the first 30 Catalan numbers  
+
+## Requirements
+- numpy
