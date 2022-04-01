@@ -1,4 +1,4 @@
-# OE-Programming2
-Code for tasks given in Programming II class in Óbuda University
+# Programming II Tasks 
+Code for the tasks given during the Programming II class in Óbuda University, BGK.
 
-- [Week 8 - Parallelism in Python](/week/8)
+- [Week 8 - Parallelism in Python](/week8/)
