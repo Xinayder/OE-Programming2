@@ -1,8 +1,6 @@
 # Week 10 - Machine Learning (Regression Models & Gradient Descent)
 These tasks were solved in the laboratory class.
 
-Tasks:
-
 ### Non-linear Regression
 Consider a classic example of throwing up a tennis ball in the air. We can predict the ball’s height (_h_) at any instance of time (_t_) using Newton’s laws of motion (ignoring air resistance). A data set (`prob1data.txt`) which follows similar trajectory is provided for training your model.
 
